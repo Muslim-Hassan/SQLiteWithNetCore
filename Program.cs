@@ -10,9 +10,9 @@ namespace SQLiteWithNetCore
             User user = new User()
             {
                 Id = 1,
-                Name = "Hassan",
+                Name = "Fatima",
                 Age = 24,
-                Gender = "Male",
+                Gender = "Female",
                 City = "Kabul",
             };
 
